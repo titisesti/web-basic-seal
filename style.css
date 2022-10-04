@@ -1,0 +1,44 @@
+/*design table 1*/
+.table1 {
+    font-family: sans-serif;
+    color: #6e1010;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+    border: 1px solid rgb(197, 6, 85);
+    padding: 8px 20px;
+    background-color: palevioletred;
+}
+
+.table1, h1 {
+    color: salmon;
+}
+
+/*design form */
+input[type=submit] {
+    background-color: #f70aa8;
+    border: none;
+    color: white;
+    padding: 8px 13px;
+    text-decoration: none;
+  }
+div {
+    padding: 22px;
+  }
+
+/* Design Biodata */
+h2 {
+    color: crimson;
+}
+
+h3 {
+    color: crimson;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: sans-serif;
+    font-size: 100%;
+    padding: 30px;
+}
