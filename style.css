@@ -42,3 +42,32 @@ body {
     font-size: 100%;
     padding: 30px;
 }
+
+/* navbar */
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(7, 193, 206);
+  }
+  
+.navbar li {
+    float: left;
+  }
+
+.active {
+    background-color: #004a6d;
+  }
+  
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.navbar li a:hover {
+    background-color: rgb(216, 37, 91);
+  }
